@@ -89,7 +89,7 @@ export function Hero() {
                 fill
                 preload
                 sizes="(min-width: 1024px) 360px, 320px"
-                className="object-cover grayscale transition duration-700 group-hover:scale-[1.03] group-hover:grayscale-0"
+                className="object-cover object-top grayscale transition duration-700 group-hover:scale-[1.03] group-hover:grayscale-0"
               />
               <div className="absolute inset-0 bg-linear-to-t from-bg via-bg/10 to-transparent" />
               <div className="absolute inset-x-3 bottom-3 flex items-center justify-between rounded-2xl border border-line bg-bg/60 px-4 py-3 font-mono text-[11px] text-muted backdrop-blur-md">

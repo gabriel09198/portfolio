@@ -4,7 +4,7 @@ export const profile = {
   role: "Desenvolvedor Full Stack",
   location: "Aracaju, SE",
   timeZone: "America/Maceio",
-  avatar: "/avatar.jpg",
+  avatar: "/gabriel.jpg",
   github: "https://github.com/gabriel09198",
   linkedin: "https://www.linkedin.com/in/gabriel-lima-de-carvalho-328b19386/",
   // Preencha para exibir um botão de e-mail na seção de contato.
